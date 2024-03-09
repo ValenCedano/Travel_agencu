@@ -15,7 +15,8 @@ header{
 }
     
 header img{
-    border-radius: 9%;
+    border-radius: 3% 4% 3% 4%;
+    
 }
 
 header div{
@@ -53,4 +54,9 @@ section {
     flex-direction: column;
     gap:50px;
     align-items: center;
+}
+
+footer {
+    background-color: #87b3c7c9;
+    text-align: center;
 }
